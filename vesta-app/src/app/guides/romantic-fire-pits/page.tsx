@@ -77,7 +77,7 @@ export default async function RomanticFirePitsPage() {
                 title="Fire Pits Built for Romance"
                 ctaText="Find Your Perfect Flame →"
                 ctaHref="#comparison"
-                backgroundImage="/images/valentines-romantic-firepit-hero.png"
+                backgroundImage="/images/products/valentines-romantic-firepit-hero.png"
             />
 
             {/* Quick Answer Box */}

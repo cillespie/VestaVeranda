@@ -69,7 +69,7 @@ export default async function RomanticDinnerSetupPage() {
                 title="Create the Perfect Outdoor Dinner for Two"
                 ctaText="Start Planning →"
                 ctaHref="#step1"
-                backgroundImage="/images/valentines-dinner-setup-hero.png"
+                backgroundImage="/images/products/valentines-dinner-setup-hero.png"
             />
 
             {/* Intro */}

@@ -81,7 +81,7 @@ export default function ValentinesDayOutdoorDatePage() {
                 title="Valentine's Day at Home, Under the Stars"
                 ctaText="See Romantic Setup Ideas →"
                 ctaHref="#essentials"
-                backgroundImage="/images/valentines-outdoor-hero.png"
+                backgroundImage="/images/products/valentines-outdoor-hero.png"
             />
 
             {/* The Hook */}

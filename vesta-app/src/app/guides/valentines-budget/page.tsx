@@ -71,7 +71,7 @@ export default async function ValentinesBudgetPage() {
                 title="Valentine's Day on a Budget"
                 ctaText="See Budget Picks →"
                 ctaHref="#picks"
-                backgroundImage="/images/valentines-budget-hero.png"
+                backgroundImage="/images/products/valentines-budget-hero.png"
             />
 
             {/* Intro */}
