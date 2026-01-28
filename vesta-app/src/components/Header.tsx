@@ -6,7 +6,14 @@ import Image from 'next/image';
 import { Menu, X, ChevronDown } from 'lucide-react';
 
 const guides = [
-  { label: 'Valentine\'s Day Outdoor Date Ideas', href: '/guides/valentines-day-outdoor-date' },
+  // Valentine's Day Collection
+  { label: '💕 Valentine\'s Day Outdoor Date Ideas', href: '/guides/valentines-day-outdoor-date' },
+  { label: '💝 Gift Ideas for the Outdoor Lover', href: '/guides/valentines-gift-ideas' },
+  { label: '❄️ Cozy Winter Date Night', href: '/guides/winter-date-night' },
+  { label: '🔥 Best Fire Pits for Romantic Evenings', href: '/guides/romantic-fire-pits' },
+  { label: '🍷 Romantic Outdoor Dinner Setup', href: '/guides/romantic-dinner-setup' },
+  { label: '💰 Valentine\'s on a Budget', href: '/guides/valentines-budget' },
+  // General Guides
   { label: 'Fire Pit on Composite Deck', href: '/guides/fire-pit-composite-deck' },
   { label: 'Robot Mowers for Hills', href: '/guides/robot-mower-hills' },
   { label: 'Ooni vs Gozney Pizza Ovens', href: '/guides/ooni-vs-gozney' },

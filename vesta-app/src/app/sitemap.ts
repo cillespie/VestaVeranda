@@ -16,6 +16,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // Guide articles
     const guides = [
         '/guides/valentines-day-outdoor-date',
+        '/guides/valentines-gift-ideas',
+        '/guides/winter-date-night',
+        '/guides/romantic-fire-pits',
+        '/guides/romantic-dinner-setup',
+        '/guides/valentines-budget',
         '/guides/fire-pit-composite-deck',
         '/guides/robot-mower-hills',
         '/guides/ooni-vs-gozney',
