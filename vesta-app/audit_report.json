@@ -1,0 +1,279 @@
+{
+  "scanTime": "2026-01-28T19:36:03.453Z",
+  "total": 110,
+  "missing": [
+    {
+      "name": "39\" Fire Pit with Storage",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "39-fire-pit-with-storage"
+    },
+    {
+      "name": "ANPHSIN Plant Covers",
+      "category": "Lawn, Garden & Irrigation",
+      "id": "anphsin-plant-covers"
+    },
+    {
+      "name": "Artificial Grass Rug",
+      "category": "Outdoor Rugs & Décor",
+      "id": "artificial-grass-rug"
+    },
+    {
+      "name": "Avenlur Pyramid Heater",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "avenlur-pyramid-heater"
+    },
+    {
+      "name": "BALEINE Patio Furniture Covers",
+      "category": "Storage & Organization",
+      "id": "baleine-patio-furniture-covers"
+    },
+    {
+      "name": "Cambridge Casual Deck Box",
+      "category": "Storage & Organization",
+      "id": "cambridge-casual-deck-box"
+    },
+    {
+      "name": "Ceiling Electric Heater",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "ceiling-electric-heater"
+    },
+    {
+      "name": "Clear Tarp 12x12ft",
+      "category": "Storage & Organization",
+      "id": "clear-tarp-12x12ft"
+    },
+    {
+      "name": "DenicMic Stake Lights (10 Pack)",
+      "category": "Lighting",
+      "id": "denicmic-stake-lights-10-pack"
+    },
+    {
+      "name": "EAST OAK Pyramid Heater",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "east-oak-pyramid-heater"
+    },
+    {
+      "name": "Gibson Home Melamine",
+      "category": "Outdoor Dinnerware",
+      "id": "gibson-home-melamine"
+    },
+    {
+      "name": "Green4ever 7 Piece Set",
+      "category": "Furniture - Dining Sets",
+      "id": "green4ever-7-piece-set"
+    },
+    {
+      "name": "Hanging Heater",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "hanging-heater"
+    },
+    {
+      "name": "LITA Artificial Grass",
+      "category": "Outdoor Rugs & Décor",
+      "id": "lita-artificial-grass"
+    },
+    {
+      "name": "MAISON BACKYARDS 6-Seat",
+      "category": "Furniture - Dining Sets",
+      "id": "maison-backyards-6-seat"
+    },
+    {
+      "name": "MIXPATIO 6-Piece Sectional",
+      "category": "Furniture - Lounge & Seating",
+      "id": "mixpatio-6-piece-sectional"
+    },
+    {
+      "name": "Orbit B-hyve Controller",
+      "category": "Lawn, Garden & Irrigation",
+      "id": "orbit-b-hyve-controller"
+    },
+    {
+      "name": "Outdoor Electric Tower",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "outdoor-electric-tower"
+    },
+    {
+      "name": "Patio Heater 1500W",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "patio-heater-1500w"
+    },
+    {
+      "name": "Patio Propane Fire Table",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "patio-propane-fire-table"
+    },
+    {
+      "name": "PATIOPIA Cracked Glass Ball",
+      "category": "Lighting",
+      "id": "patiopia-cracked-glass-ball"
+    },
+    {
+      "name": "String Light Poles (4 Pack)",
+      "category": "Lighting",
+      "id": "string-light-poles-4-pack"
+    },
+    {
+      "name": "suddus Firework Lights (2 Pack)",
+      "category": "Lighting",
+      "id": "suddus-firework-lights-2-pack"
+    },
+    {
+      "name": "Suncast 33 Gallon Trashcan",
+      "category": "Storage & Organization",
+      "id": "suncast-33-gallon-trashcan"
+    },
+    {
+      "name": "SUNCREAT Double Portable Hammock",
+      "category": "Furniture - Lounge & Seating",
+      "id": "suncreat-double-portable-hammock"
+    },
+    {
+      "name": "TONULAX Butterfly Lights (2 Pack)",
+      "category": "Lighting",
+      "id": "tonulax-butterfly-lights-2-pack"
+    },
+    {
+      "name": "UBeesize Grill Mat",
+      "category": "Fire Pits, Heaters & Grills",
+      "id": "ubeesize-grill-mat"
+    }
+  ],
+  "duplicates": [
+    {
+      "image": "/images/products/gazebo_hero.png",
+      "products": [
+        {
+          "name": "14' x 22' Hardtop Pavilion",
+          "category": "Shade Structures & Gazebos"
+        },
+        {
+          "name": "AECOJOY Wall Gazebo 12x10",
+          "category": "Shade Structures & Gazebos"
+        },
+        {
+          "name": "Best Choice 10ft Solar Offset",
+          "category": "Shade Structures & Gazebos"
+        },
+        {
+          "name": "Blissun 9' Market Umbrella",
+          "category": "Shade Structures & Gazebos"
+        },
+        {
+          "name": "MFSTUDIO 15ft Double Sided Umbrella",
+          "category": "Shade Structures & Gazebos"
+        },
+        {
+          "name": "Modern Shade Hardtop 10x10",
+          "category": "Shade Structures & Gazebos"
+        },
+        {
+          "name": "PURPLE LEAF 10x13 Double Top",
+          "category": "Shade Structures & Gazebos"
+        },
+        {
+          "name": "Sophia & William 13ft Umbrella",
+          "category": "Shade Structures & Gazebos"
+        }
+      ]
+    },
+    {
+      "image": "/images/products/sauna_hero.png",
+      "products": [
+        {
+          "name": "2-3 Person Corner Sauna",
+          "category": "Saunas & Spas"
+        },
+        {
+          "name": "2 Person Sauna Box",
+          "category": "Saunas & Spas"
+        },
+        {
+          "name": "78 in Vertical Barrel Sauna",
+          "category": "Saunas & Spas"
+        },
+        {
+          "name": "Far Infrared Sauna",
+          "category": "Saunas & Spas"
+        },
+        {
+          "name": "Infrared & Steam Sauna",
+          "category": "Saunas & Spas"
+        }
+      ]
+    },
+    {
+      "image": "/images/products/snow_tools_hero.png",
+      "products": [
+        {
+          "name": "40V Cordless Snow Shovel",
+          "category": "Winter Maintenance"
+        },
+        {
+          "name": "AstroAI Ice Scraper Kit",
+          "category": "Winter Maintenance"
+        },
+        {
+          "name": "Best Choice Snow Pusher",
+          "category": "Winter Maintenance"
+        },
+        {
+          "name": "EGO POWER+ 21\" Blower",
+          "category": "Winter Maintenance"
+        },
+        {
+          "name": "MANPLOW RevolutionX",
+          "category": "Winter Maintenance"
+        },
+        {
+          "name": "PowerSmart 24-Inch Blower",
+          "category": "Winter Maintenance"
+        },
+        {
+          "name": "Safe Paw Ice Melt",
+          "category": "Winter Maintenance"
+        },
+        {
+          "name": "senix Corded Snow Blower",
+          "category": "Winter Maintenance"
+        }
+      ]
+    },
+    {
+      "image": "/images/products/outdoor_audio_hero.png",
+      "products": [
+        {
+          "name": "Flame Atmosphere Speakers",
+          "category": "Outdoor Audio"
+        },
+        {
+          "name": "Herdio 5.25\" Wall Mount",
+          "category": "Outdoor Audio"
+        },
+        {
+          "name": "ION Block Rocker",
+          "category": "Outdoor Audio"
+        },
+        {
+          "name": "Monster Rockin' Roller 270",
+          "category": "Outdoor Audio"
+        },
+        {
+          "name": "NiceBuy Solar Rock Speakers",
+          "category": "Outdoor Audio"
+        },
+        {
+          "name": "pohopa Solar Speakers (3 Pack)",
+          "category": "Outdoor Audio"
+        },
+        {
+          "name": "Soundcore Boom 2",
+          "category": "Outdoor Audio"
+        },
+        {
+          "name": "STUDIOFINIX 6.5\" Speakers",
+          "category": "Outdoor Audio"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "crons": [
+        {
+            "path": "/api/admin/x-process-queue",
+            "schedule": "*/15 * * * *"
+        },
+        {
+            "path": "/api/admin/pinterest-process-queue",
+            "schedule": "*/15 * * * *"
+        }
+    ]
+}
